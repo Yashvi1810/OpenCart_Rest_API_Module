@@ -20,6 +20,10 @@ This project demonstrates practical exposure to:
 - **OpenCart** – eCommerce platform  
 
 ---
+## 🔄 Cart Workflow Diagram
+
+![OpenCart Cart API Workflow](2.png)
+
 
 ## 🧩 Modules Covered
 - Cart Module (REST APIs)
